@@ -1,7 +1,6 @@
-title: My Personal Website
+title: Jonah Berean-Dutcher
 email: jonahberean@gmail.com
-description: >- 
-  A simple personal website with Markdown and LaTeX support.
+description: 
 baseurl: "/website" 
 url: "https://jonahberean.github.io"
 theme: minima
