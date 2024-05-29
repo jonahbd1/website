@@ -2,6 +2,6 @@ title: My Personal Website
 email: jonahberean@gmail.com
 description: >- 
   A simple personal website with Markdown and LaTeX support.
-baseurl: "" 
+baseurl: "/website" 
 url: "https://jonahberean.github.io"
 theme: minima
