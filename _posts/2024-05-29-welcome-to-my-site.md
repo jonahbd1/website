@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Welcome to My Site
+title: Test post
 date: 2024-05-29
 ---
-
-# First post
 
 $$
 \mathcal{L} = \sqrt{g}R
